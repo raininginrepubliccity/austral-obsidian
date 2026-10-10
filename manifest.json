@@ -1,1 +1,7 @@
-
+{
+	"name": "Convergence",
+	"version": "0.0.1",
+	"minAppVersion": "1.10.6",
+	"author": "Raininginrepubliccity",
+	"authorUrl": "https://github.com/raininginrepubliccity"
+}
