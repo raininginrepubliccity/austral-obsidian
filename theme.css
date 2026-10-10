@@ -1,4 +1,3 @@
-
 /* @settings
 
 name: Settings
@@ -11,10 +10,13 @@ settings:
     allowEmpty: false
     default: figtree
     options:
-        - label: Serif
-          value: figtree
-        - label: Sans Serif
-            value: castoro
+            - 
+                label: Sans Serif
+                value: figtree
+            - 
+                label: Serif
+                value: Castoro
+
 */
 
 @font-face {
